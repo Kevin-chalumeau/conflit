@@ -1,3 +1,4 @@
 # conflit
+REMOTE
 
 quelque ligne
